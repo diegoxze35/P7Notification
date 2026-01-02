@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Authentication Demo</string>
+
+    <string name="login_title">Welcome Back</string>
+    <string name="register_title">Create Account</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="name_hint">Full Name</string>
+    <string name="master_password_hint">Master Password (Admins only)</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Register</string>
+    <string name="register_admin_label">Register as Administrator</string>
+    <string name="no_account">Don\'t have an account? Sign up</string>
+    <string name="has_account">Already have an account? Login</string>
+
+    <string name="error_empty_fields">Please fill all fields</string>
+    <string name="error_invalid_master_pass">Invalid Master Password</string>
+    <string name="success_login">Login successful</string>
+    <string name="generic_error">Something went wrong</string>
+
+    <string name="home_loading">Loading profile...</string>
+    <string name="welcome_message">Welcome, %1$s!</string>
+    <string name="role_admin">Administrator</string>
+    <string name="role_user">User</string>
+    <string name="logout">Logout</string>
+
+    <string name="email_not_verified_title">Email not verified</string>
+    <string name="email_not_verified_desc">Please verify your email to access all features.</string>
+    <string name="refresh_verification">I have verified it, Refresh</string>
+    <string name="resend_verification">Resend Email</string>
+    <string name="verification_sent">Verification email sent</string>
+
+    <string name="admin_send_notif">Send Notifications</string>
+    <string name="admin_review_events">Review Events</string>
+
+    <string name="user_create_event">Create New Event</string>
+    <string name="user_history">My Notifications</string>
+    <string name="feature_locked">Feature locked until verification</string>
+</resources>

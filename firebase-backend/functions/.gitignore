@@ -1,0 +1,17 @@
+# Dependencias (se instalan con npm install)
+node_modules/
+
+# Logs de depuración
+firebase-debug.log*
+firebase-debug.*.log
+
+# Archivos de configuración local de Firebase
+.firebase/
+.firebaserc
+
+# Variables de entorno y secretos
+.env
+*.local
+
+# IMPORTANTE: Tu llave privada
+service-account.json
