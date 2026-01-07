@@ -89,3 +89,8 @@ Ejecuta el siguiente comando en la raíz del proyecto (carpeta `firebase-backend
 # Inicia un contenedor efímero de Node 20
 # La opción -v /app/functions/node_modules aísla las dependencias para evitar corrupción en Windows
 docker run --rm -it -v ${PWD}:/app -v /app/functions/node_modules -w /app node:20-slim bash
+
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/93de5fdd-998d-410b-9aec-0512d22c7785" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/e6f3fd10-4fa2-4f99-9600-6f31a9babdbd" />
+
+
